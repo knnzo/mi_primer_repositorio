@@ -1,0 +1,19 @@
+h1{
+    text-align: left;
+    text-decoration: underline;
+    font-style: italic;
+
+}
+h2{
+    text-align: center;
+    text-decoration: line-through;
+    font-style: oblique;
+
+
+}
+h3{
+    text-align: right;
+    text-decoration: none;
+    font-size: 100px;
+
+}
