@@ -1,0 +1,27 @@
+.boton-1{
+    background-color: rgb(254, 254, 254);
+    border: 1px solid rgb(150, 255, 255);
+    border-radius: 25px;
+    width: 160px;
+    height: 30px;
+    color: rgb(150, 255, 255);
+}
+
+.boton-3 {
+
+    background-color: rgb(68, 68, 255);
+    color: white;
+    height: 35px;
+    width: 150px;
+    box-shadow: 3px 3px black ;
+}
+
+.boton-2{
+
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(17, 225, 225);
+    color: white;
+    border: 1px solid rgb(17, 225, 225);
+}
